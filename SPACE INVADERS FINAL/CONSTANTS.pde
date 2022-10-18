@@ -1,0 +1,13 @@
+final int SCREENX=500;
+final int SCREENY=500;
+final int GAP=10;
+final int ALIEN_ALIVE=0;
+final int ALIEN_DEAD=6;
+final int FORWARD=0;
+final int BACKWARD=1;
+final int PADDLEHEIGHT = 15;
+final int PADDLEWIDTH = 50;
+final int MARGIN = 10;
+final int invaderx=30;
+final int invadery=25;
+int deadAliens=0;
